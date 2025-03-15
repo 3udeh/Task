@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+background-color: deepskyblue;
+
+
+}
+.p{
+    color: rgb(255, 255, 255);
+    font-size:x-large;
+    
+    }
+
+.p2{
+color: rgb(117, 7, 7);
+
+
+}
+
